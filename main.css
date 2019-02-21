@@ -35,6 +35,10 @@ body {
 h3 {
   text-align: center;
 }
+
+img {
+  border-radius: 4px;
+}
 p {
   font-size: 16px;
   line-height: 1.5;
